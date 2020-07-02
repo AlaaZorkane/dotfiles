@@ -1,0 +1,59 @@
+{
+  "workbench.colorTheme": "Material Theme Palenight High Contrast",
+  "window.menuBarVisibility": "hidden",
+  "workbench.iconTheme": "material-icon-theme",
+  "files.associations": {
+    "**/.i3/config": "i3",
+    "**/i3/config": "i3"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.minimap.enabled": false,
+  "todo-tree.tree.showScanModeButton": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback', 'pongo','icomoon-feather', 'MaterialIcons-Regular'",
+  "discord.lowerDetailsEditing": "{filesize}",
+  "discord.lowerDetailsIdle": "{null}",
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  },
+  "vetur.format.defaultFormatter.html": "prettier",
+  "editor.formatOnSave": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "javascript.preferences.quoteStyle": "double",
+  "typescript.preferences.quoteStyle": "double",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "workbench.colorCustomizations": {},
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "emmet.includeLanguages": {
+    "vue": "jade"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.exclude": {
+    "node_modules/": true
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "css.validate": false,
+  "stylelint.enable": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 0,
+  "liveServer.settings.donotVerifyTags": true
+}
